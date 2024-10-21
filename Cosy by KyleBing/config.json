@@ -29,13 +29,13 @@
     "hint": {
         "font": "nunwen.ttf",
         "size": 24,
-        "color": "#BBBBBB"
+        "color": "#999999"
     },
     "currentpage": {
         "color": "#FFFFFF"
     },
     "total": {
-        "color": "#FFFFFF"
+        "color": "#FFA800"
     },
     "grid": {
         "font": "nunwen.ttf",
