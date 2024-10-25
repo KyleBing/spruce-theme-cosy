@@ -11,7 +11,7 @@ for SpruceOS (Miyoo A30)
 ## Progress
 - [x] App icons
 - [x] Setting icons
-- [x] Game console icons
+- [x] Game console icons `2024-10-25`
 
 
-> last update 2024-10-21
+> last update 2024-10-25
