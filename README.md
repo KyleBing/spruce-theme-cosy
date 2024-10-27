@@ -15,3 +15,12 @@ for SpruceOS (Miyoo A30)
 
 
 > last update 2024-10-25
+
+
+
+## Credits
+
+**Nunwen Font:** by tenlevels (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+**Icons:** by KyleBing  
+**Console icons:** by KyleBing  
+**Proofreading:** SundownerSport
