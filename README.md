@@ -1,7 +1,7 @@
 ![banner](./art/art-horizontal-3000h.png)
 
 # Cosy
-for SpruceOS (Miyoo A30)
+A theme for Miyoo A30 (with [SpruceOS](https://github.com/spruceUI/spruceOS))
 
 
 ![preview](./previews/preview-spruce.png)
@@ -9,8 +9,8 @@ for SpruceOS (Miyoo A30)
 ![preview](./previews/preview-app-list.png)
 
 ## Progress
-- [x] App icons
-- [x] Setting icons
+- [x] Setting icons  `2024-08-27`
+- [x] App icons `2024-09-17`
 - [x] Game console icons `2024-10-25`
 
 
