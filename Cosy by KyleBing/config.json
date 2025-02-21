@@ -4,7 +4,7 @@
     "batteryPercentage": {
         "visible": false,
         "font": "nunwen.ttf",
-        "size": 10,
+        "size": 24,
         "color": "#FFFFFF",
         "textAlign": "center",
         "fixed": true,
